@@ -48,7 +48,7 @@
 
 ## 📫 Contato | Contacto | Contact
 [![Email](https://img.shields.io/badge/Email-phschwan%40gmail.com-blue)](mailto:phschwan@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Visitar-blue?logo=linkedin)](www.linkedin.com/in/phschwan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Visitar-blue?logo=linkedin)](linkedin.com/in/phschwan)
 
 ---
 
